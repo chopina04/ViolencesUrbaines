@@ -5,7 +5,7 @@ Jeu de données sur les violences urbaines à l'échelle mondiale et à l'échel
 Données issues :<br>
 <li>de l'Institut Brésilien de Géographie et de Statistiques consulté en octobre-novembre 2017</br>
 URL : https://www.ibge.gov.br/<br>
-<li>du rapport de l'ONG mexicaine <i>El Consejo Ciudadano para la Seguridad Pública y la Justicia Penal A.C.</i> intitulé <i>As 50 cidades mais violentas do mundo em 2014</i>,paru en 2015 et consulté en octobre-novembre 2017<br>
+<li>du rapport de l'ONG mexicaine <i>El Consejo Ciudadano para la Seguridad Pública y la Justicia Penal A.C.</i> intitulé <i>As 50 cidades mais violentas do mundo em 2014</i>, paru en 2015 et consulté en octobre-novembre 2017<br>
 URL : http://www.seguridadjusticiaypaz.org.mx/biblioteca/prensa/download/6-prensa/200-as-50-cidades-mais-violentas-do-mundo-em-2014<br> 
 
 Fonds vectoriels issus de :<br>
