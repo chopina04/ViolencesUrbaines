@@ -14,4 +14,4 @@ URL : http://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrati
 <li>DIVA-GIS<br>
 URL : http://www.diva-gis.org/<br>
 
-Données mises en forme avec QGIS dans se version 2.18.14.
+Données mises en forme avec QGIS dans sa version 2.18.14.
